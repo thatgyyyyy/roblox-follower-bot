@@ -6,12 +6,12 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 
 # Past the link to your profile which you want to follow
-URL = "https://www.roblox.com/users/yourid/profile"
+URL = "https://www.roblox.com/users/3291991706/profile"
 
 # Here is the dictionary of your accounts, you can write multiple lines of that, but make sure it doesn't crash
 accounts = [
-    {"username": "YOURUSERNAME", "password": "YOURPASSWORD"},
-    {"username": "YOURUSERNAME", "password": "YOURPASSWORD"},
+    {"username": "esaithefliper", "kaiisafk2487": "kaiisafk2487"},
+    {"username": "esaithefliper", "kaiiisafk2487": "kaiisafk2487"},
 ]
 
 
